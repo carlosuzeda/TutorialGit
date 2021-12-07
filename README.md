@@ -1,6 +1,6 @@
 # Tutorial GIT
 <div align="center">
-<a href="url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" height="180em" width="180em" ></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" height="180em" width="180em" >
 </div>
 
 ## Olá dev! Esse projeto ensinará você a usar o Git.
